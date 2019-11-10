@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a706ec42-b562-4182-9dee-4dc424b2ee1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/index2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/build/dev-client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/build/dev-server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/package.swan.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/project.swan.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/components/acticle.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/components/card.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/components/comment.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/components/write.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/acticle/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/acticle/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/acticle/main.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/community/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/community/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/community/main.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/contact/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/contact/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/index/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/index/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/index/main.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/more/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/more/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/store/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/store/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/pages/store/main.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/src/utils/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/images/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/images/friend.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/images/groupchat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/images/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/lib/mockdata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/tabs/home-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/tabs/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/tabs/orders-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/tabs/orders.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/action-sheet/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/action-sheet/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/action-sheet/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/action-sheet/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/action-sheet/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/area/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/area/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/area/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/area/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/area/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/badge-group/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/badge-group/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/badge-group/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/badge-group/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/badge-group/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/badge/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/badge/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/badge/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/badge/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/badge/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/button/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/button/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/button/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/button/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/button/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/card/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/card/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/card/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/card/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/card/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/cell-group/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/cell-group/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/cell-group/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/cell-group/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/cell-group/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/cell/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/cell/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/cell/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/cell/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/cell/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/checkbox-group/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/checkbox-group/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/checkbox-group/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/checkbox-group/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/checkbox-group/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/checkbox/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/checkbox/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/checkbox/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/checkbox/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/checkbox/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/col/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/col/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/col/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/col/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/col/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/collapse-item/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/collapse-item/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/collapse-item/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/collapse-item/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/collapse-item/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/collapse/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/collapse/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/collapse/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/collapse/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/color.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/color.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/component.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/style/clearfix.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/style/ellipsis.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/style/hairline.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/style/mixins/clearfix.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/style/mixins/ellipsis.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/style/mixins/hairline.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/style/var.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/utils.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/common/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/datetime-picker/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/datetime-picker/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/datetime-picker/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/datetime-picker/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/datetime-picker/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/dialog/dialog.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/dialog/dialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/dialog/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/dialog/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/dialog/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/dialog/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/dialog/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/field/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/field/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/field/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/field/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/field/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action-button/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action-button/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action-button/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action-button/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action-button/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action-icon/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action-icon/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action-icon/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action-icon/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action-icon/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/goods-action/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/icon/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/icon/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/icon/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/icon/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/icon/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/info/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/info/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/info/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/info/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/info/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/loading/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/loading/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/loading/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/loading/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/loading/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/basic.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/basic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/button.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/iphonex.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/iphonex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/link.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/observer/behavior.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/observer/behavior.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/observer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/observer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/observer/props.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/observer/props.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/open-type.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/open-type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/touch.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/touch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/transition.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/mixins/transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/nav-bar/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/nav-bar/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/nav-bar/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/nav-bar/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/nav-bar/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/notice-bar/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/notice-bar/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/notice-bar/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/notice-bar/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/notice-bar/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/notify/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/notify/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/notify/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/notify/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/notify/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/notify/notify.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/notify/notify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/overlay/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/overlay/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/overlay/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/overlay/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/overlay/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/panel/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/panel/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/panel/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/panel/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/panel/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/picker-column/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/picker-column/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/picker-column/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/picker-column/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/picker-column/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/picker/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/picker/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/picker/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/picker/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/picker/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/popup/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/popup/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/popup/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/popup/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/popup/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/progress/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/progress/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/progress/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/progress/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/progress/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/radio-group/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/radio-group/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/radio-group/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/radio-group/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/radio-group/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/radio/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/radio/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/radio/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/radio/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/radio/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/rate/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/rate/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/rate/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/rate/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/rate/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/row/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/row/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/row/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/row/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/row/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/search/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/search/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/search/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/search/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/search/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/slider/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/slider/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/slider/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/slider/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/slider/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/stepper/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/stepper/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/stepper/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/stepper/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/stepper/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/steps/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/steps/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/steps/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/steps/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/steps/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/submit-bar/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/submit-bar/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/submit-bar/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/submit-bar/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/submit-bar/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/swipe-cell/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/swipe-cell/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/swipe-cell/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/swipe-cell/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/swipe-cell/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/switch-cell/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/switch-cell/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/switch-cell/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/switch-cell/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/switch-cell/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/switch/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/switch/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/switch/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/switch/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/switch/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tab/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tab/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tab/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tab/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tab/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabbar-item/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabbar-item/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabbar-item/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabbar-item/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabbar-item/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabbar/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabbar/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabbar/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabbar/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabbar/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabs/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabs/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabs/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tabs/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tag/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tag/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tag/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tag/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tag/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/toast/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/toast/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/toast/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/toast/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/toast/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/toast/toast.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/toast/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/transition/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/transition/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/transition/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/transition/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/transition/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tree-select/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tree-select/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tree-select/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tree-select/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/tree-select/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/wxs/array.wxs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/wxs/bem.wxs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/wxs/memoize.wxs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/wxs/object.wxs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graduation-czx/static/vant/wxs/utils.wxs" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1887567336">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="4" />
+          <entry key="js" value="1" />
+          <entry key="sass" value="1" />
+          <entry key="scss" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="4" />
+          <entry key="JavaScript" value="1" />
+          <entry key="SCSS" value="4" />
+          <entry key="Sass" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="450" />
+          <entry key="js" value="944" />
+          <entry key="scss" value="1633" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="450" />
+          <entry key="JavaScript" value="944" />
+          <entry key="SCSS" value="1633" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/index.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="未命名" />
+        <option value="my-SCSS" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/online.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/static/js/index.js" />
+        <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/static/css/index2.scss" />
+        <option value="$PROJECT_DIR$/static/css/index.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tuishu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuishu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuishu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuishu" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuishu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuishu" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Ruby25-x64/bin/scss.bat" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a706ec42-b562-4182-9dee-4dc424b2ee1d" name="Default Changelist" comment="" />
+      <created>1554478797069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554478797069</updated>
+      <workItem from="1554478798455" duration="90000" />
+      <workItem from="1554478919358" duration="1479000" />
+      <workItem from="1554545598015" duration="14583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16152000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10634082" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32892805" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/online.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/index2.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+          <folding>
+            <element signature="e#182#491#0" />
+            <element signature="e#1611#1742#0" />
+            <element signature="e#1743#2376#0" />
+            <element signature="e#2373#2916#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
